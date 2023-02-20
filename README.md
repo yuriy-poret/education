@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @yuriy-poret
+- 👀 I’m interested in Programming, QA Auto, DevOps.
